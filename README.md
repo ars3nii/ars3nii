@@ -1,5 +1,5 @@
 <h1 align="center">Hi there👋, I'm Arsenii</h1> 
-<ul> <li>👨🏻‍💻 I am Junior Front-End Developer[![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)]</li>
+<ul> <li>👨🏻‍💻 I am Junior Front-End Developer</li>
 <li> 💻 I’m learning right now React.jS/Next.jS⚡</li>
 <li> 💌 You can reach me in Telegram: <a href="https://t.me/seny4kaa" target="_blank"> @senya4kaa </a> | Gmail arsegorak@gmail.com </li>
 <li>🧑🏼‍⚖️ Student of Law University</li></ul>
